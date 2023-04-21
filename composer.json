@@ -1,6 +1,6 @@
 {
     "name": "antcool/easy-feieyun",
-    "description": "PHP SDK for Feieyun",
+    "description": "PHP SDK for Feieyun, 飞鹅云, 飞鹅开放平台",
     "license": "MIT",
     "authors": [
         {
