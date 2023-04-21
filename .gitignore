@@ -1,0 +1,14 @@
+.idea
+*.DS_Store
+/vendor/
+/coverage
+*.log
+/storage/
+sftp-config.json
+composer.lock
+.subsplit
+.php_cs.cache
+/_runtime/
+demo.php
+notify.php
+public.key
